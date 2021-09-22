@@ -24,7 +24,6 @@
 							"5" : "",
 							"6" : ""
 					}
-					}
 			},
 			"logo"  : {
 				"logoShow" : "true ",
@@ -549,3 +548,4 @@
 				"contentBorderRadius" : " ",
 				"contentTextAlign" : " "
 			}
+}
