@@ -10,7 +10,7 @@
 			"smallScreenWidth" : "500px",
 			"mediumScreenWidth" : "700px",
 			"largeScreenWidth" : "900px",
-			"largeScreenBodyMargin" : "5% 0 0 5%",
+			"largeScreenBodyMargin" : "5% 0 5% 0",
 			"buttonHeight" : "",
 			"inputFieldHeight" : " ",
 			"fileLocation" : "https://smallplaces.org/s/smallplaces.txt",
