@@ -1,5 +1,5 @@
 			{
-			"bodyPosition" : "leftPosition",
+			"bodyPosition" : "centerPosition",
 			"bodyBackgroundColor" : "     #E0DDD0   ",
 			"blockBackgroundColor" : "white",
 			"bodyBackgroundImage" : "https://images.squarespace-cdn.com/content/v1/5b03230c96e76f07bac36cae/1584936090948-O1AKLBF4B4NGSPXNIZUS/IMG_0184.jpg",
@@ -30,13 +30,13 @@
 				"location" : "area1",
 				"logoURL" : "https://images.squarespace-cdn.com/content/v1/5c4e3f8ba2772c2755e4cb29/31468f1e-c8f5-4b92-8017-9d7772cba899/SmallPlacesLogo-501c3%402x-8.png",
 				"logoDestinationUrl" : "  https://www.smallplaces.org ",
-				"imagePosition" : " left ",
+				"imagePosition" : " center ",
 			  "blockBackgroundColor" : " white ",
 				"blockMaxHeight" : " 250px ",
 				"imagePadding" : "3px",
 				"imageMargin" : "  10px 10px 10px 10px",
 				"imageBorderTop" : " ",
-				"imageBorderRight" : "2px solid #EAEADE ",
+				"imageBorderRight" : " ",
 				"imageBorderBottom" : "",
 				"imageBorderLeft" : "1",
 				"imageBorderRadius" : " ",
@@ -50,8 +50,8 @@
 			},
 			"logoTitle" : {
 				"logoTitleShow" : "true ",
-				"title" : " Small Places Matter ",
-				"textPosition" : " left " ,
+				"title" : " Cultivating Community Health through Urban Farming ",
+				"textPosition" : " center " ,
 				"smallScreenPadding" : "0px",
 				"mediumScreenPadding" : "2px 200px",
 				"largeScreenPadding" : "2px 10px",
@@ -85,12 +85,12 @@
 				   "topBorder" : "",
 				   "leftBorder" : "",
 				   "rightBorder" : "",
-				   "backgroundColor" : "#61A534 ",
+				   "backgroundColor" : "white ",
 			           "padding": " 20px 0px ",
 				   "margin" : " 5px 0px ",
 				   "borderRadius" : "",
 				   "menuButtonFontColor" : "white",
-				   "menuButtonBackgroundColor" : "#61A534",
+				   "menuButtonBackgroundColor" : "#f05a28",
 				   "menuButtonBottomBorder" : "",
 			           "menuButtonTopBorder" : "",
 				   "menuButtonLeftBorder" : "",
@@ -101,16 +101,16 @@
 				   "menuCount" : "3",
 				   "menuItems" :{
 						 "1" : {
-								"Explore" : "https://www.oxfamamerica.org/explore/"
+								"About" : "https://www.smallplaces.org/about/"
 						 },
 						 "2" : {
-								"Take action" : "https://www.oxfamamerica.org/take-action/"
+								"Our Farm" : "https://www.smallplaces.org/our-farm/"
 						 },
 						 "3" : {
-								"Donate" : "https://allegrosolutions.org/dev/sadhana/WhiteLabel/"
+								"Our Programs" : "https://www.smallplaces.org/our-programs/"
 						 },
 						 "4": {
-								"" : ""
+								"Contact" : "https://www.smallplaces.org/contact/"
 						 },
 						 "5" : {
 								"" : ""
