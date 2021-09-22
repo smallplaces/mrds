@@ -85,7 +85,7 @@
 				   "topBorder" : "",
 				   "leftBorder" : "",
 				   "rightBorder" : "",
-				   "backgroundColor" : "white ",
+				   "backgroundColor" : "#f05a28 ",
 			           "padding": " 20px 0px ",
 				   "margin" : " 5px 0px ",
 				   "borderRadius" : "",
