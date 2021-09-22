@@ -6,7 +6,7 @@
 			"bodyBackgroundImageRepeat" : " no-repeat ",
 			"bodyBackgroundImageAttachment" : " fixed ",
 			"bodyBackgroundImageSize" : " cover ",
-			"bodyBackgroundImagePosition" : " top center ",
+			"bodyBackgroundImagePosition" : " middle center ",
 			"smallScreenWidth" : "500px",
 			"mediumScreenWidth" : "700px",
 			"largeScreenWidth" : "900px",
@@ -43,14 +43,14 @@
 				"outerBorderRadius" : " ",
 				"outerBorder" : " ",
 				"outerMargin" : " ",
-				"smallScreenWidth" : "160px",
-				"mediumScreenWidth" : "160px",
-				"largeScreenWidth" : "190px"
+				"smallScreenWidth" : "220px",
+				"mediumScreenWidth" : "220px",
+				"largeScreenWidth" : "300px"
 
 			},
 			"logoTitle" : {
 				"logoTitleShow" : "true ",
-				"title" : " Cultivating Community Health through Urban Farming ",
+				"title" : " CULTIVATING COMMUNITY HEALTH THROUGH URBAN FARMING ",
 				"textPosition" : " center " ,
 				"smallScreenPadding" : "0px",
 				"mediumScreenPadding" : "2px 200px",
@@ -61,7 +61,7 @@
 				"fontColor" : "   #545454 ",
 				"fontStyle" : "",
 				"backgroundColor" : " white ",
-				"textDecoration" : "uppercase",
+				"textDecoration" : "",
 				"leftBorder" : "",
 				"rightBorder" : "",
 				"topBorder" : "",
@@ -101,16 +101,16 @@
 				   "menuCount" : "4",
 				   "menuItems" :{
 						 "1" : {
-								"About" : "https://www.smallplaces.org/about/"
+								"ABOUT" : "https://www.smallplaces.org/about/"
 						 },
 						 "2" : {
-								"Our Farm" : "https://www.smallplaces.org/our-farm/"
+								"OUR FARM" : "https://www.smallplaces.org/our-farm/"
 						 },
 						 "3" : {
-								"Our Programs" : "https://www.smallplaces.org/our-programs/"
+								"OUR PROGRAMS" : "https://www.smallplaces.org/our-programs/"
 						 },
 						 "4": {
-								"Contact" : "https://www.smallplaces.org/contact/"
+								"CONTACT" : "https://www.smallplaces.org/contact/"
 						 },
 						 "5" : {
 								"" : ""
