@@ -150,7 +150,7 @@
 				"textPadding" :" ",
 				"outerBlockMargin" : " ",
 				"outerBlockBorderRadius" : " ",
-				"aboutUsText" : "<strong><b>Now, more than ever, your support matters</b></strong>. Millions of families around the world are struggling to overcome hunger, poverty, and injustice. You can support survivors of the devastating disasters in Indonesia, aid Rohingya families and others displaced by violence, assist families on the brink of famine in Yemen, and help people work their way out of poverty.<br>Your gift will go to work right away. <b>Make a tax-deductible donation today</b>."
+				"aboutUsText" : "<strong><b>Now, more than ever, your support matters</b></strong>. Millions of families around the world are struggling to overcome hunger, poverty, and injustice. You can support survivors of the devastating disasters in Indonesia, aid Rohingya families and others displaced by violence, assist families on the brink of famine in Yemen, and help people work their way out of poverty.<br>Your donation goes to supporting our work through the farm. <br><strong><b>Make a tax-deductible donation today!</b></strong>"
 
 	     		},
 			"progressBar" : {
@@ -264,18 +264,18 @@
 			        "donationTargetItems" :{
 						 "1" : {
 								"image" : "https://allegrosolutions.org/assets/images/oxfamdt1.jpg ",
-								"amount" : "$60",
-								"description" : "Can provide 5 families with tarps for shelter"
+								"amount" : "$35",
+								"description" : "Can provide a week of produce for a family"
 						 },
 						 "2" : {
 								"image" : "https://allegrosolutions.org/assets/images/oxfamdt2.jpg ",
-								"amount" : "$100",
-								"description" : "Can help educate refugee children"
+								"amount" : "$140",
+								"description" : "Can provide a month of produce for a family"
 						 },
 						 "3" : {
 								"image" : "https://allegrosolutions.org/assets/images/oxfamdt3.jpg  ",
-								"amount" : "$250",
-								"description" : "Can help a family start a small business"
+								"amount" : "$420",
+								"description" : "Can provide 3 months of produce for a family"
 						 },
 						 "4": {
 								"image" : "",
@@ -295,19 +295,19 @@
 				 },
 				"donationTargetItemsConditional" :{
 						 "1" : {
-								"image" : "https://allegrosolutions.org/assets/images/oxfamdt4.jpg ",
-								"amount" : "$10",
-								"description" : "Can irrigate a farmer's land for a month"
+								"image" : "https://images.squarespace-cdn.com/content/v1/5b03230c96e76f07bac36cae/1540871274885-4LSM3M1CI7LUSXRYMR1R/20171116_134114.jpg ",
+								"amount" : "$15",
+								"description" : "Can sponsor 1 student for a field trip each month"
 						 },
 						 "2" : {
 								"image" : "https://allegrosolutions.org/assets/images/oxfamdt5.jpg ",
-								"amount" : "$18",
-								"description" : "Can plant 30 trees"
+								"amount" : "$35",
+								"description" : "Can sponsor 1 week of produce for a family each month"
 						 },
 						 "3" : {
 								"image" : "https://allegrosolutions.org/assets/images/oxfamdt6.jpg  ",
-								"amount" : "$35",
-								"description" : "Can provide 30 days of school meals to a child"
+								"amount" : "$140",
+								"description" : "Can sponsor a full month of produce for a family"
 						 },
 						 "4": {
 								"image" : " ",
