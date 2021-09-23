@@ -164,7 +164,7 @@
 				"outerRightBorder" : " ",
 				"outerBackgroundColor" : "",
 			        "outerPadding": "",
-				"outerMargin" : "",
+				"outerMargin" : "0 0",
 				"outerBorderRadius" : "",
 				"progressBarHeight" : "",
 				"currentProgressBackgroundColor" : "",
