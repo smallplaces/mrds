@@ -348,7 +348,7 @@
 				"outerRightBorder" : "",
 				"outerBackgroundColor" : "",
 			        "outerPadding": "20px 5px",
-				"outerMargin" : "0 10% ",
+				"outerMargin" : "0 5% ",
 				"outerBorderRadius" : "",
 				"paymentTypeButtonHeight" : "50px",
 				"paymentTypeButtonFontSize" : "19px",
