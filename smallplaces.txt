@@ -150,7 +150,7 @@
 				"textPadding" :" ",
 				"outerBlockMargin" : " ",
 				"outerBlockBorderRadius" : " ",
-				"aboutUsText" : "<strong><b>Small Places </b></strong>develops unique urban farms that go far beyond just growing food to become a focal point for the “health infrastructure” required to create zip code level change in health. By concentrating our work to impact the immediate neighborhood in which we are located, our urban farms help achieve our vision:<br><br><em><strong><b>neighborhoods where everyone regardless of age, income, race, or circumstance wakes up every day with the tools to be healthy!</b></strong></em><br><br><strong><b>Your donation goes to supporting our work through the farm. Make a tax-deductible donation today!</b></strong>"
+				"aboutUsText" : "<strong><b>Small Places </b></strong>develops unique urban farms that go far beyond just growing food to become a focal point for the “health infrastructure” required to create zip code level change in health. By concentrating our work to impact the immediate neighborhood in which we are located, our urban farms help achieve our vision:<br><br><em><strong><b>neighborhoods where everyone regardless of age, income, race, or circumstance wakes up every day with the tools to be healthy</b></strong></em><br><br>Your donation goes to supporting our work through the farm. <strong><b>Make a tax-deductible donation today!</b></strong>"
 
 	     		},
 			"progressBar" : {
