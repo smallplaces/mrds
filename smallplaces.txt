@@ -263,17 +263,17 @@
 				"donationTargetConditional" : "true" ,
 			        "donationTargetItems" :{
 						 "1" : {
-								"image" : "https://allegrosolutions.org/assets/images/oxfamdt1.jpg ",
+								"image" : "https://images.squarespace-cdn.com/content/v1/5c4e3f8ba2772c2755e4cb29/1632758979567-FYYZUZ77TDYE2RCO6IM2/228052559_4217491151665680_4555256672451148028_n.jpg ",
 								"amount" : "$35",
 								"description" : "Can provide a week of produce for a family"
 						 },
 						 "2" : {
-								"image" : "https://allegrosolutions.org/assets/images/oxfamdt2.jpg ",
+								"image" : "https://images.squarespace-cdn.com/content/v1/5c4e3f8ba2772c2755e4cb29/1632759072799-VE1VQYQ33RGXBFAAXNR3/91268891_2469312903381056_5044162269621540549_n.jpg ",
 								"amount" : "$140",
 								"description" : "Can provide a month of produce for a family"
 						 },
 						 "3" : {
-								"image" : "https://allegrosolutions.org/assets/images/oxfamdt3.jpg  ",
+								"image" : "https://images.squarespace-cdn.com/content/v1/5c4e3f8ba2772c2755e4cb29/1632758955150-CTDFZVDOOKQ8G3U8X5T0/Community-Share%25402x.jpg  ",
 								"amount" : "$420",
 								"description" : "Can provide 3 months of produce for a family"
 						 },
@@ -300,12 +300,12 @@
 								"description" : "Can sponsor 1 student for a field trip each month"
 						 },
 						 "2" : {
-								"image" : "https://allegrosolutions.org/assets/images/oxfamdt5.jpg ",
+								"image" : "https://images.squarespace-cdn.com/content/v1/5c4e3f8ba2772c2755e4cb29/1632759026470-EV9IDEQD7Q6KGH750BYW/198155323_490403408959506_4405754967128497473_n.jpg ",
 								"amount" : "$35",
 								"description" : "Can sponsor 1 week of produce for a family each month"
 						 },
 						 "3" : {
-								"image" : "https://allegrosolutions.org/assets/images/oxfamdt6.jpg  ",
+								"image" : "https://images.squarespace-cdn.com/content/v1/5c4e3f8ba2772c2755e4cb29/1632759052630-Q52WXZU8MU9MPRRSHGAL/96462261_283733246118954_5133289136446905012_n.jpg  ",
 								"amount" : "$140",
 								"description" : "Can sponsor a full month of produce for a family"
 						 },
