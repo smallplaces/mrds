@@ -50,7 +50,7 @@
 			},
 			"logoTitle" : {
 				"logoTitleShow" : "true ",
-				"title" : " CULTIVATING COMMUNITY HEALTH THROUGH URBAN FARMING ",
+				"title" : " cultivating community health through urban farming ",
 				"textPosition" : " center " ,
 				"smallScreenPadding" : "0px",
 				"mediumScreenPadding" : "2px 200px",
