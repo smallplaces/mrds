@@ -17,7 +17,7 @@
 			"externalFontSet" : {
 					"externalFont" : "true",
 					"externalFontURL" : {
-							"1" : "https://raw.githubusercontent.com/smallplaces/mrds/main/css%20family%3DAlways-A-Good-Time.css",
+							"1" : "https://raw.githubusercontent.com/smallplaces/mrds/main/css%20family%3DAlways-A-Good-Time.css?family=always-a-good-time:wght@500&display=swap",
 							"2" : "https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&display=swap",
 							"3" : "",
 							"4" : "",
