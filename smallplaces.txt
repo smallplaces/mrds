@@ -17,7 +17,7 @@
 			"externalFontSet" : {
 					"externalFont" : "false",
 					"externalFontURL" : {
-							"1" : "https://static1.squarespace.com/static/5c4e3f8ba2772c2755e4cb29/t/615235f9315d6a0a1d41dc85/1632777721499/KGAlwaysAGoodTime.ttf",
+							"always-a-good-time" : "https://static1.squarespace.com/static/5c4e3f8ba2772c2755e4cb29/t/615235f9315d6a0a1d41dc85/1632777721499/KGAlwaysAGoodTime.ttf",
 							"2" : "",
 							"3" : "",
 							"4" : "",
@@ -56,7 +56,7 @@
 				"mediumScreenPadding" : "2px 200px",
 				"largeScreenPadding" : "2px 10px",
 				"fontSize" : " 22px ",
-				"fontFamily" : "1",
+				"fontFamily" : "always-a-good-time",
 				"fontWeight" : " 700 ",
 				"fontColor" : "   #00a79b ",
 				"fontStyle" : "",
