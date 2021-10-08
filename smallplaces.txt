@@ -58,7 +58,7 @@
 				"fontSize" : " 22px ",
 				"fontFamily" : "1",
 				"fontWeight" : " 700 ",
-				"fontColor" : "   #545454 ",
+				"fontColor" : "   #00a79b ",
 				"fontStyle" : "",
 				"backgroundColor" : " white ",
 				"textDecoration" : "",
