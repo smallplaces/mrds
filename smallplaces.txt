@@ -17,8 +17,8 @@
 			"externalFontSet" : {
 					"externalFont" : "false",
 					"externalFontURL" : {
-							"1" : "https://static1.squarespace.com/static/5c4e3f8ba2772c2755e4cb29/t/615235f9315d6a0a1d41dc85/1632777721499/KGAlwaysAGoodTime.ttf",
-							"2" : "https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&display=swap",
+							"1" : ""https://static1.squarespace.com/static/5c4e3f8ba2772c2755e4cb29/t/615235f9315d6a0a1d41dc85/1632777721499/KGAlwaysAGoodTime.ttf"",
+							"2" : ""https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&display=swap"",
 							"3" : "",
 							"4" : "",
 							"5" : "",
