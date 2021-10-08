@@ -17,7 +17,7 @@
 			"externalFontSet" : {
 					"externalFont" : "false",
 					"externalFontURL" : {
-							"1" : "",
+							"1" : "https://static1.squarespace.com/static/5c4e3f8ba2772c2755e4cb29/t/615235f9315d6a0a1d41dc85/1632777721499/KGAlwaysAGoodTime.ttf",
 							"2" : "",
 							"3" : "",
 							"4" : "",
@@ -59,7 +59,7 @@
 				"fontFamily" : "Arial,Helvetica,sans-serif",
 				"fontWeight" : " 700 ",
 				"fontColor" : "   #545454 ",
-				"fontStyle" : "",
+				"fontStyle" : "1",
 				"backgroundColor" : " white ",
 				"textDecoration" : "",
 				"leftBorder" : "",
