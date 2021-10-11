@@ -55,9 +55,9 @@
 				"smallScreenPadding" : "0px",
 				"mediumScreenPadding" : "2px 200px",
 				"largeScreenPadding" : "2px 10px",
-				"fontSize" : " 28px ",
+				"fontSize" : " 40px ",
 				"fontFamily" : "Just Another Hand, Dancing Script    ",
-				"fontWeight" : " 700 ",
+				"fontWeight" : "  ",
 				"fontColor" : "   #00a79b ",
 				"fontStyle" : "",
 				"backgroundColor" : " white ",
@@ -74,7 +74,7 @@
 				   "location" : "area2",
 			 	   "smallScreenFontSize" : "14px",
 				   "mediumScreenFontSize" : "14px",
-				   "largeScreenFontSize" : "18px ",
+				   "largeScreenFontSize" : "16px ",
 				   "fontColor" : "   white  ",
 			           "fontWeight" : "   ",
 				   "fontFamily" : "Helvetica Neue, Arial   ",
@@ -135,9 +135,9 @@
 				"imageHeight" : " ",
 				"imageMarginLeft":"",
 				"fontSize" : " 18px ",
-				"fontColor" : " black",
+				"fontColor" : " #5d5e5e",
 			  "fontWeight" : "    ",
-				"fontFamily" : "  proxima-nova  ",
+				"fontFamily" : "  Helvetica Neue, Arial     ",
   			"fontStyle" : "     ",
 				"textDecoration" : "      ",
 			  "textAlign" : " center",
@@ -219,7 +219,7 @@
 				"imageMargin" : " ",
 				"imageBorderRadius" : " ",
 				"imageBorder" : " ",
-				"titleFontSize" : " ",
+				"titleFontSize" : " 4rem",
 				"titleFontColor" : " white ",
 			        "titleFontWeight" : " bold   ",
 				"titleFontFamily" : " Alice  ",
@@ -237,7 +237,7 @@
 				"descriptionFontSize" : " 18px",
 				"descriptionFontColor" : " white ",
 			        "descriptionFontWeight" : "  bold  ",
-				"descriptionFontFamily" : "  Alice  ",
+				"descriptionFontFamily" : "  Helvetica Neue, Arial  ",
   				"descriptionFontStyle" : "     ",
 				"descriptionTextDecoration" : "      ",
 			        "descriptionTextAlign" : " ",
@@ -246,7 +246,7 @@
 				"descriptionLeftBorder" : " ",
 				"descriptionRightBorder" : " ",
 				"descriptionBackgroundColor" : " ",
-			        "descriptionPadding": " ",
+			        "descriptionPadding": "10px 0 ",
 				"descriptionMargin" : " ",
 				"descriptionBorderRadius" : " ",
 				"donationTargetBottomBorder" : " ",
@@ -265,17 +265,17 @@
 						 "1" : {
 								"image" : "https://images.squarespace-cdn.com/content/v1/5c4e3f8ba2772c2755e4cb29/1632758979567-FYYZUZ77TDYE2RCO6IM2/228052559_4217491151665680_4555256672451148028_n.jpg ",
 								"amount" : "$35",
-								"description" : "Can provide a week of produce for a family"
+								"description" : "CAN PROVIDE A WEEK OF PRODUCE FOR A FAMILY"
 						 },
 						 "2" : {
 								"image" : "https://images.squarespace-cdn.com/content/v1/5c4e3f8ba2772c2755e4cb29/1632759072799-VE1VQYQ33RGXBFAAXNR3/91268891_2469312903381056_5044162269621540549_n.jpg ",
 								"amount" : "$140",
-								"description" : "Can provide a month of produce for a family"
+								"description" : "CAN PROVIDE A MONTH OF PRODUCE FOR A FAMILY"
 						 },
 						 "3" : {
 								"image" : "https://images.squarespace-cdn.com/content/v1/5c4e3f8ba2772c2755e4cb29/1632758955150-CTDFZVDOOKQ8G3U8X5T0/Community-Share%25402x.jpg  ",
 								"amount" : "$420",
-								"description" : "Can provide 3 months of produce for a family"
+								"description" : "CAN PROVIDE 3 MONTHS OF PRODUCE FOR A FAMILY"
 						 },
 						 "4": {
 								"image" : "",
@@ -297,17 +297,17 @@
 						 "1" : {
 								"image" : "https://images.squarespace-cdn.com/content/v1/5b03230c96e76f07bac36cae/1540871274885-4LSM3M1CI7LUSXRYMR1R/20171116_134114.jpg ",
 								"amount" : "$15",
-								"description" : "Can sponsor 1 student for a field trip each month"
+								"description" : "CAN SPONSOR 1 STUDENT FOR A FIELD TRIP EACH MONTH"
 						 },
 						 "2" : {
 								"image" : "https://images.squarespace-cdn.com/content/v1/5c4e3f8ba2772c2755e4cb29/1632759026470-EV9IDEQD7Q6KGH750BYW/198155323_490403408959506_4405754967128497473_n.jpg ",
 								"amount" : "$35",
-								"description" : "Can sponsor 1 week of produce for a family each month"
+								"description" : "CAN SPONSOR 1 WEEK OF PRODUCE FOR A FAMILY EACH MONTH"
 						 },
 						 "3" : {
 								"image" : "https://images.squarespace-cdn.com/content/v1/5c4e3f8ba2772c2755e4cb29/1632759052630-Q52WXZU8MU9MPRRSHGAL/96462261_283733246118954_5133289136446905012_n.jpg  ",
 								"amount" : "$140",
-								"description" : "Can sponsor a full month of produce for a family"
+								"description" : "CAN SPONSOR A FULL MONTH OF PRODUCE FOR A FAMILY"
 						 },
 						 "4": {
 								"image" : " ",
