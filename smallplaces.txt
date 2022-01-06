@@ -295,7 +295,7 @@
 				 },
 				"donationTargetItemsConditional" :{
 						 "1" : {
-								"image" : "https://images.squarespace-cdn.com/content/v1/5b03230c96e76f07bac36cae/1540871274885-4LSM3M1CI7LUSXRYMR1R/20171116_134114.jpg ",
+								"image" : "https://static1.squarespace.com/static/5b03230c96e76f07bac36cae/t/61d6681284509574903f6751/1641441298940/20171116_134114.jpg ",
 								"amount" : "$15",
 								"description" : "CAN SPONSOR 1 STUDENT FOR A FIELD TRIP EACH MONTH"
 						 },
