@@ -263,17 +263,17 @@
 				"donationTargetConditional" : "true" ,
 			        "donationTargetItems" :{
 						 "1" : {
-								"image" : "https://images.squarespace-cdn.com/content/v1/5c4e3f8ba2772c2755e4cb29/1632758979567-FYYZUZ77TDYE2RCO6IM2/228052559_4217491151665680_4555256672451148028_n.jpg ",
+								"image" : "https://static1.squarespace.com/static/5b03230c96e76f07bac36cae/t/61d666d29a4f5a7140e0d16e/1641440978697/228052559_4217491151665680_4555256672451148028_n.jpg ",
 								"amount" : "$35",
 								"description" : "CAN PROVIDE A WEEK OF PRODUCE FOR A FAMILY"
 						 },
 						 "2" : {
-								"image" : "https://images.squarespace-cdn.com/content/v1/5c4e3f8ba2772c2755e4cb29/1632759072799-VE1VQYQ33RGXBFAAXNR3/91268891_2469312903381056_5044162269621540549_n.jpg ",
+								"image" : "https://static1.squarespace.com/static/5b03230c96e76f07bac36cae/t/61d66602d395b206da14231c/1641440770471/91268891_2469312903381056_5044162269621540549_n.jpg ",
 								"amount" : "$140",
 								"description" : "CAN PROVIDE A MONTH OF PRODUCE FOR A FAMILY"
 						 },
 						 "3" : {
-								"image" : "https://images.squarespace-cdn.com/content/v1/5c4e3f8ba2772c2755e4cb29/1632758955150-CTDFZVDOOKQ8G3U8X5T0/Community-Share%25402x.jpg  ",
+								"image" : "https://static1.squarespace.com/static/5b03230c96e76f07bac36cae/t/61d666f994295e2b4138cd87/1641441017284/Community-Share%402x.jpg  ",
 								"amount" : "$420",
 								"description" : "CAN PROVIDE 3 MONTHS OF PRODUCE FOR A FAMILY"
 						 },
@@ -300,12 +300,12 @@
 								"description" : "CAN SPONSOR 1 STUDENT FOR A FIELD TRIP EACH MONTH"
 						 },
 						 "2" : {
-								"image" : "https://images.squarespace-cdn.com/content/v1/5c4e3f8ba2772c2755e4cb29/1632759026470-EV9IDEQD7Q6KGH750BYW/198155323_490403408959506_4405754967128497473_n.jpg ",
+								"image" : "https://static1.squarespace.com/static/5b03230c96e76f07bac36cae/t/61d666b7473da02c8e81015d/1641440951971/198155323_490403408959506_4405754967128497473_n.jpg ",
 								"amount" : "$35",
 								"description" : "CAN SPONSOR 1 WEEK OF PRODUCE FOR A FAMILY EACH MONTH"
 						 },
 						 "3" : {
-								"image" : "https://images.squarespace-cdn.com/content/v1/5c4e3f8ba2772c2755e4cb29/1632759052630-Q52WXZU8MU9MPRRSHGAL/96462261_283733246118954_5133289136446905012_n.jpg  ",
+								"image" : "https://static1.squarespace.com/static/5b03230c96e76f07bac36cae/t/61d6668ec04335207dcb3dcc/1641440910723/96462261_283733246118954_5133289136446905012_n.jpg  ",
 								"amount" : "$140",
 								"description" : "CAN SPONSOR A FULL MONTH OF PRODUCE FOR A FAMILY"
 						 },
